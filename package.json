@@ -1,0 +1,19 @@
+{
+  "name": "proyecto-rm",
+  "version": "0.0.1",
+  "description": "Primer proyecto con la api de Rick & Morty",
+  "main": "./src/index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "keywords": [
+    "JavaScript",
+    "API",
+    "DOM"
+  ],
+  "author": "Fernando Lezama O",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
